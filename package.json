@@ -1,0 +1,22 @@
+{
+  "name": "myservernode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlBenza/myservernode.git"
+  },
+  "author": "alessandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlBenza/myservernode/issues"
+  },
+  "homepage": "https://github.com/IlBenza/myservernode#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
