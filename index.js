@@ -21,4 +21,4 @@ app.use((req, res) => {
     res.status(404).send('Error 404')
 });
   
-app.listen(port)
+app.listen(port);
